@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "sourceMap": true,
+    "declaration": true,
+    "noImplicitAny": false,
+    "outDir": "./dist",
+    "typeRoots": [
+      "node_modules/@types"
+    ]
+  },
+  "files": [
+    "src/angular-json-editor.ts"
+  ]
+}
