@@ -4,7 +4,7 @@
   "description": "JSON Editor for Angular",
   "main": "index.js",
   "scripts": {
-    "build": "node node_modules/typescript/bin/tsc -p tsconfig.json",
+    "build": "node node_modules/typescript/bin/tsc -p tsconfig.json"
   },
   "files": [
     "dist",
